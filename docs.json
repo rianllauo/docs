@@ -31,19 +31,19 @@
                 ]
             },
             {
-                "tab": "Boilerplate",
+                "tab": "Architecture",
                 "groups": [
                     {
                         "group": "API Documentation",
-                        "pages": ["api-reference/introduction"]
+                        "pages": ["architecture/introduction"]
                     },
                     {
                         "group": "Endpoint Examples",
                         "pages": [
-                            "api-reference/endpoint/get",
-                            "api-reference/endpoint/create",
-                            "api-reference/endpoint/delete",
-                            "api-reference/endpoint/webhook"
+                            "architecture/endpoint/get",
+                            "architecture/endpoint/create",
+                            "architecture/endpoint/delete",
+                            "architecture/endpoint/webhook"
                         ]
                     }
                 ]
@@ -53,15 +53,15 @@
                 "groups": [
                     {
                         "group": "API Documentation",
-                        "pages": ["api-reference/introduction"]
+                        "pages": ["components/introduction"]
                     },
                     {
                         "group": "Endpoint Examples",
                         "pages": [
-                            "api-reference/endpoint/get",
-                            "api-reference/endpoint/create",
-                            "api-reference/endpoint/delete",
-                            "api-reference/endpoint/webhook"
+                            "components/endpoint/get",
+                            "components/endpoint/create",
+                            "components/endpoint/delete",
+                            "components/endpoint/webhook"
                         ]
                     }
                 ]
